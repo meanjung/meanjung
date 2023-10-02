@@ -5,7 +5,7 @@
 </a>
 
 
-## My main Skill
+## ✨✨ Main Skills
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -32,7 +32,7 @@
 </div>
 
 
-## 🔨 Once I've used 🔨
+## ✨✨ Experienced Once
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->

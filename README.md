@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm minjeong 👋
+
+<a href="https://hongd99.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/FFFFFF?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
 <!--
 **meanjung/meanjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

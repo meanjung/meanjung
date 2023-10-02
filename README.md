@@ -60,3 +60,11 @@
     </div>
 </div>
 
+## ✨✨ Education
+
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <p><strong>이화여자대학교 사이버보안전공 학사(2018.03 ~ 2024.02)</strong></p>
+</div>
+
+
+

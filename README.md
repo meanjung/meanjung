@@ -67,4 +67,10 @@
 </div>
 
 
-
+## ✨✨ Activity
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <p><strong>LG CNS 인턴십(2023.01 ~ 2023.02)</strong></p>
+    <p><strong>SW마에스트로 (2021.04 ~ 2021.12)</strong></p>
+    <p><strong>SOPT 26기 서버파트 (2020.04 ~ 2020.07)</strong></p>
+    <p><strong>이화여자대학교 알고리즘 동아리 EDOC (2018.12 ~ 2019.12)</strong></p>
+</div>
